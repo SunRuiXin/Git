@@ -8,5 +8,6 @@ int main(int argv, char* argc[])
 	printf("Hellow Git\n");
 	printf("ss\n");
 	printf("ww\n");
+	printf("Modify inline");
 	return 0;
 }
